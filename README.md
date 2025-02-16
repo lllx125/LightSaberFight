@@ -7,4 +7,4 @@ A VR game for Meta Quest 3!
 
 ### video demo [here](https://youtu.be/804Ahf_R96k)
 ### To play it
-download `LIght Saber Fight 1.0.apk` to your Meta Quest 3
+[download](https://drive.google.com/file/d/128O5_gnTgtYqGQKAZrJfEY0-qJvJuoK8/view?usp=drive_link) `LIght Saber Fight 1.0.apk` to your Meta Quest 3
